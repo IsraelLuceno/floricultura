@@ -1,6 +1,5 @@
-
 import e from './App.module.css'
-import produtos from './constants/produtos.json'
+import produtos from './constants/plantas.json'
 import { Card } from './components/card'
 
 function App() {
