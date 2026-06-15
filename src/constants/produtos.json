@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "rame": "Perfume 01",
+        "desc": "muito bom",
+        "value": 100.00,
+        "image": "/p1.webp"
+
+    },
+    {
+        "id": 2,
+        "rame": "Perfume 02",
+        "desc": "muito cheiroso",
+        "value": 200.00,
+        "image": "/p2.webp"
+
+    },
+    {
+        "id": 3,
+        "rame": "Perfume 03",
+        "desc": "muito caro",
+        "value": 300.00,
+        "image": "/p3.jpg"
+        
+    },
+    {
+        "id": 4,
+        "rame": "Perfume 01",
+        "desc": "muito bom",
+        "value": 100.00,
+        "image": "/p1.webp"
+
+    },
+    {
+        "id": 5,
+        "rame": "Perfume 01",
+        "desc": "muito bom",
+        "value": 100.00,
+        "image": "/p1.webp"
+
+    },
+    {
+        "id": 6,
+        "rame": "Perfume 01",
+        "desc": "muito bom",
+        "value": 100.00,
+        "image": "/p1.webp"
+
+    },
+    {
+        "id": 7,
+        "rame": "Perfume 01",
+        "desc": "muito bom",
+        "value": 100.00,
+        "image": "/p1.webp"
+
+    },
+    {
+        "id": 8,
+        "rame": "Perfume 01",
+        "desc": "muito bom",
+        "value": 100.00,
+        "image": "/p1.webp"
+
+    }
+]
