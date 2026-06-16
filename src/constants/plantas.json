@@ -1,28 +1,28 @@
 [
     {
         "id": 1,
-        "plant": "flor 01",
-        "espec": "muito bom",
-        "fami": 100.00,
-        "orige": "brasil",
-        "ilus": ""
+        "plant": "Orquidea",
+        "espec": "Phalaenopsis",
+        "fami": "Orchidaceae",
+        "orige": "Sudeste Asiático",
+        "ilus": "./lotus.webp"
 
     },
     {
         "id": 2,
-        "rame": "Perfume 02",
-        "espec": "muito cheiroso",
-        "fami": 200.00,
-        "orig": "",
-        "imag": ""
+        "rame": "Margarida",
+        "espec": "Bellis perennis",
+        "fami": "Asteraceae",
+        "orig": "Europa, Ásia Ocidental e Norte da África.",
+        "imag": "./Margarida.jpg"
     },
     {
         "id": 3,
-        "rame": "Perfume 02",
-        "espec": "muito cheiroso",
-        "fami": 200.00,
-        "orig": "",
-        "imag": ""
+        "rame": "Flor de lótus",
+        "espec": "Nelumbo nucifera",
+        "fami": "Nelumbonaceae",
+        "orig": "Sul e Sudeste da Ásia, estendendo-se até o norte da Austrália.",
+        "imag": "./lotus.webp"
     },
     {
         "id": 4,
